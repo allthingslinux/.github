@@ -1,4 +1,4 @@
-![Discord Banner 1](https://i.imgur.com/6kxPNlG.png)
+![Discord Banner 1](https://i.imgur.com/6kxPNlG.png) 
 
 <p align="center">
   <img src="https://discordapp.com/api/guilds/1172245377395728464/widget.png?style=shield" alt="Discord Shield">
@@ -23,7 +23,7 @@ We develop tools, create self-hosted projects, and curate educational resources 
 
 ### ~/Our Values
 
-At the core of All Things Linux is our commitment to inclusivity and diversity. Our code of conduct ensures everyone feels welcome, regardless of background or skill level. We value different perspectives and foster a supportive environment for learning and growth.
+At the core of All Things Linux is our commitment to inclusivity and diversity. Our [code of conduct](https://allthingslinux.org/code-of-conduct) ensures everyone feels welcome, regardless of background or skill level. We value different perspectives and foster a supportive environment for learning and growth.
 
 ### ~/Our Future
 
