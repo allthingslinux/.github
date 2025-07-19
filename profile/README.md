@@ -15,7 +15,7 @@ Fostering a vibrant community of Linux enthusiasts through education, collaborat
 
 ### ~/Our Community
 
-We are a diverse community of over 8,000+ Linux enthusiasts, passionate about advancing technology and sharing knowledge. Our organization is dedicated to promoting the spirit and growth of Linux through collaboration and innovation.
+We are a diverse community of over 12,000+ Linux enthusiasts, passionate about advancing technology and sharing knowledge. Our organization is dedicated to promoting the spirit and growth of Linux through collaboration and innovation.
 
 ### ~/Our Mission
 
