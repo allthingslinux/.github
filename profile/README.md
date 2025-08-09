@@ -1,8 +1,11 @@
-![Discord Banner 1](https://i.imgur.com/6kxPNlG.png) 
+<a href="https://discord.gg/linux" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.imgur.com/6kxPNlG.png" alt="Discord Banner 1">
+</a>
 
 <p align="center">
-  <img src="https://discordapp.com/api/guilds/1172245377395728464/widget.png?style=shield" alt="Discord Shield">
-  <img src="https://dcbadge.vercel.app/api/server/linux?style=flat&theme=clean" alt="Discord Banner 2">
+  <a href="https://discord.gg/linux" target="_blank" rel="noopener noreferrer">
+    <img src="https://discordapp.com/api/guilds/1172245377395728464/widget.png?style=shield" alt="Discord Shield">
+  </a>
 </p>
 
 # Let's build the future of Linux together
