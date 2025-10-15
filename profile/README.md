@@ -34,3 +34,5 @@ As a 501(c)(3) nonprofit, we prioritize transparency and community-driven decisi
 
 #### Learn more about us:
 https://allthingslinux.org/
+
+![Metrics](/github-metrics.svg)
