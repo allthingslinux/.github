@@ -1,3 +1,5 @@
+ NOTE: Any claims relating to BAGS, crypto, and similar projects that are not officially endorsed by @kzndotsh on X/GitHub should be deamed as fake.
+
 <a href="https://discord.gg/linux" target="_blank" rel="noopener noreferrer">
   <img src="https://i.imgur.com/6kxPNlG.png" alt="Discord Banner 1">
 </a>
